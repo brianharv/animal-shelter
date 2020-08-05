@@ -1,6 +1,6 @@
-# _{Animal Shelter Website_
+# _Animal Shelter Website_
 
-#### _{Animal Shelter website to use cascading, box-model, and floats}, Aug 5, 2020_
+#### _Animal Shelter website to use cascading, box-model, and floats}, Aug 5, 2020_
 
 #### By _**Brian Harvey & Natalie Murphy**_
 
@@ -35,6 +35,7 @@ HTML
 CSS
 
 ### License
+This webpage uses the GPL license.
 
 
 Copyright (c) 2020 ** Animal Shelter **
