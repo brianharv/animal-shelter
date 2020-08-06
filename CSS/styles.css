@@ -16,11 +16,15 @@
   display: block;
 }
 .column ul {
-  font-style: italic;
+  font-style: times;
   font-weight: bold;
 }
 .column h1 {
   color:gray;
   font-style: arial;
   text-align: center;
+}
+.column p {
+  color:darkgray;
+  font-style: arial;
 }
